@@ -1,7 +1,7 @@
 # Quality Performance Report  
 **Power BI Dashboard
 
-![Dashboard Preview](image.png)  
+![Dashboard Preview](Images/Dashboard.png)  
 
 ## Overview  
 This dashboard tracks **Quantity and Gross Profit (GP%) performance** for Plant Co. in 2023, comparing Year-to-Date (YTD) metrics against Prior Year-to-Date (PYTD). It helps identify trends, top/bottom performers, and profitability segments across countries, products, and months.  
