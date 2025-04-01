@@ -1,5 +1,5 @@
 # Quality Performance Report  
-**Power BI Dashboard
+Power BI Dashboard
 
 ![Dashboard Preview](Images/Dashboard.png)  
 
