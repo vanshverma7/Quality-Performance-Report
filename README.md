@@ -32,7 +32,7 @@ This dashboard tracks **Quantity and Gross Profit (GP%) performance** for Plant 
 ---
 
 ## How to Use  
-1. **Open in Power BI Desktop:** Load the `.pbix` file  
+1. **Open in Power BI Desktop:** Load the `Performance Report.pbix` file  
 2. **Refresh Data:** Click `Refresh` in the `Home` tab if data sources are connected  
 3. **Explore:**  
    - Use **slicers** (e.g., Product Type) to filter views  
@@ -48,4 +48,7 @@ This dashboard tracks **Quantity and Gross Profit (GP%) performance** for Plant 
 
 ### Notes  
 - **Increase/Decrease Arrows:** Highlight positive/negative trends  
-- **Bottom 10 Table:** Prioritize corrective actions for underperforming countries  
+- **Bottom 10 Table:** Prioritize corrective actions for underperforming countries
+
+  ## Project
+To view the original dashboard, please use the file `Performance Report.pbix`.
